@@ -3,7 +3,7 @@ This project is a part of internship at iNeuron https://ineuronvision.com/
 
 ## Project Objective
 
-The goal of this project is to give people an estimate of how much they need based on their individual health situation. 
+The goal of this project is to give people an estimate of how much they need based on their individual health situations.
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
