@@ -189,10 +189,8 @@ and <b>Predicts the Insurance Premium Price</b>
 
 ## Deploy Web Application
 
-The Web Application is deployed on <b>Heroku</b>, a Platform as a Service(PaaS) that enables developers to build, run, and operate applications entirely in the cloud by linking this GitHub repositroy to Heroku. 
+The Web Application is deployed on <b>VS Code</b>, 
 
-
-## Deployed Web Application (https://insurance-premiumpredictor.herokuapp.com/)
 
 ## References:
 
